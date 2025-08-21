@@ -14,3 +14,7 @@
 .nav-head{
   font-weight: 800;
 }
+.nav-styles{
+  display: flex;
+
+}
