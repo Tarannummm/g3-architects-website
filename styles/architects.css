@@ -16,5 +16,6 @@
 }
 .nav-styles{
   display: flex;
+  justify-content: space-between;
 
 }
